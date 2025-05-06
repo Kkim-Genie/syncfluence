@@ -1,6 +1,6 @@
 # InfluenSync (Syncfluence) MVP
 
-![InfluenSync](syncfluence%20logo.png)
+![InfluenSync](public/logo.png)
 
 ## 소개
 
