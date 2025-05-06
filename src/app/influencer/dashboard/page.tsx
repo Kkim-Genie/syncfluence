@@ -135,6 +135,8 @@ export default function InfluencerDashboard() {
                   }
                   alt={influencerProfile?.name || "Profile"}
                   className="h-full w-full object-cover"
+                  width={128}
+                  height={128}
                 />
               </div>
               <div className="text-center sm:text-left">

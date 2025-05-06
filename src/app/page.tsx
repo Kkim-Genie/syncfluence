@@ -19,7 +19,7 @@ export default function Home() {
                 </span>
               </h1>
               <p className="mb-8 text-xl font-medium text-primary-700">
-                SyncFluence is an AI-powered platform that helps brands find the
+                InfluenSync is an AI-powered platform that helps brands find the
                 perfect influencer match for their campaigns. Try our MVP today!
               </p>
               <div className="flex flex-wrap gap-4">
@@ -41,7 +41,7 @@ export default function Home() {
               <div className="relative h-80 w-80 lg:h-96 lg:w-96">
                 <Image
                   src="/logo.png"
-                  alt="SyncFluence"
+                  alt="InfluenSync"
                   fill
                   style={{ objectFit: "contain" }}
                   className="animate-pulse"
@@ -157,10 +157,10 @@ export default function Home() {
           <div className="grid gap-12 lg:grid-cols-2">
             <div>
               <h2 className="text-3xl font-extrabold text-primary-700 sm:text-4xl">
-                About SyncFluence
+                About InfluenSync
               </h2>
               <p className="mt-6 text-lg text-primary-600">
-                SyncFluence is an innovative MVP platform designed to streamline
+                InfluenSync is an innovative MVP platform designed to streamline
                 the process of connecting brands with the right influencers. Our
                 AI-based technology analyzes various factors to create optimal
                 matches.

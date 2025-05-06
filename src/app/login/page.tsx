@@ -54,7 +54,7 @@ export default function LoginPage() {
         <Card className="mx-auto w-full max-w-md">
           <div className="mb-6 text-center">
             <h1 className="text-2xl font-bold text-gray-900">
-              Log In to SyncFluence
+              Log In to InfluenSync
             </h1>
             <p className="mt-2 text-gray-600">
               Enter your credentials to access your account

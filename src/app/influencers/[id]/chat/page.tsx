@@ -442,6 +442,8 @@ export default function InfluencerChat() {
                 src={influencer.profileImageUrl}
                 alt={influencer.name}
                 className="h-full w-full object-cover"
+                width={64}
+                height={64}
               />
             </div>
             <div className="flex items-center">

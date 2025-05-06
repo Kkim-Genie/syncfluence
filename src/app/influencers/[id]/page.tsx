@@ -112,6 +112,8 @@ export default function InfluencerProfile() {
                     src={influencer.profileImageUrl}
                     alt={influencer.name}
                     className="h-full w-full object-cover"
+                    width={64}
+                    height={64}
                   />
                 </div>
                 <div className="w-full text-center sm:text-left">
@@ -160,6 +162,8 @@ export default function InfluencerProfile() {
                       src={url}
                       alt={`Content sample ${index + 1}`}
                       className="h-full w-full object-cover"
+                      width={64}
+                      height={64}
                     />
                   </div>
                 ))}

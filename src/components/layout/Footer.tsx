@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 gap-8 md:grid-cols-3">
           <div>
             <h3 className="text-xl font-extrabold text-primary-600">
-              SyncFluence
+              InfluenSync
             </h3>
             <p className="mt-2 text-sm text-primary-800">
               Connecting brands and influencers through intelligent matchmaking.
@@ -74,7 +74,7 @@ export default function Footer() {
 
         <div className="mt-8 border-t border-primary-100 pt-8 text-center text-sm text-primary-700">
           <p>
-            &copy; {new Date().getFullYear()} SyncFluence. All rights reserved.
+            &copy; {new Date().getFullYear()} InfluenSync. All rights reserved.
             MVP Version 0.1
           </p>
         </div>

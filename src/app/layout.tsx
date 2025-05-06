@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "SyncFluence - Connect Brands and Influencers",
+  title: "Influen Sync - Connect Brands and Influencers",
   description: "AI-powered platform for matching brands and influencers",
 };
 

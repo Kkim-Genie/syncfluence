@@ -38,7 +38,7 @@ export default function SignupPage() {
         <Card className="mx-auto w-full max-w-md">
           <div className="mb-6 text-center">
             <h1 className="text-2xl font-bold text-gray-900">
-              Create your SyncFluence Account
+              Create your InfluenSync Account
             </h1>
             <p className="mt-2 text-gray-600">
               Join our platform to connect with brands or influencers

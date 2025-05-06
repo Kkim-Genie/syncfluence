@@ -53,9 +53,9 @@ export default function Navbar() {
       <div className="container mx-auto px-4 py-3">
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center space-x-2">
-            <Image src="/logo.png" alt="SyncFluence" width={40} height={40} />
+            <Image src="/logo.png" alt="InfluenSync" width={40} height={40} />
             <span className="text-2xl font-bold text-primary-600">
-              SyncFluence
+              InfluenSync
             </span>
           </Link>
 

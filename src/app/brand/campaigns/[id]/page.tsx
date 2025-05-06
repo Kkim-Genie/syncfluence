@@ -194,6 +194,8 @@ export default function CampaignDetails() {
                           src={match.influencer.profileImageUrl}
                           alt={match.influencer.name}
                           className="h-full w-full object-cover"
+                          width={64}
+                          height={64}
                         />
                       </div>
                       <div className="flex-1">
